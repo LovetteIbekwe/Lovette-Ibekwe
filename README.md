@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... Data Analysis with Dahel Techices
 - 💞️ I’m looking to collaborate on ... Startup found and business owner
 - 📫 How to reach me ...[LINKEDIN](https://www.linkedin.com/in/lovette-ibekwe-067b861ab?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3xX2%2Ffb6TZKZ5NOV47DTLg%3D%3D)
-
+ - 📖 [WIX](https://lovetteibekwe809.wixsite.com/loveibe-digital-spot)
 - Skills
   -    Excel
   -    SQL (Structure Query Language)
